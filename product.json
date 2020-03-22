@@ -1,0 +1,98 @@
+{
+ "Jaket": [
+    {
+		"id": "1",
+		"name": "Jacket 1",
+		"price": "10.000"
+    },
+    {
+		"id": "2",
+		"name": "Jacket 2",
+		"price": "15.000"
+    },
+    {
+		"id": "3",
+		"name": "Jacket 3",
+		"price": "20.000"
+    },
+    {
+		"id": "4",
+		"name": "Jacket 4",
+		"price": "25.000"
+    },
+    {
+		"id": "5",
+		"name": "Jacket 5",
+		"price": "30.000"
+    },
+    {
+		"id": "6",
+		"name": "Jacket 6",
+		"price": "35.000"
+    }
+  ],
+  "Sweater": [
+    {
+		"id": "7",
+		"name": "Sweater 1",
+		"price": "10.000"
+    },
+    {
+		"id": "8",
+		"name": "Sweater 2",
+		"price": "15.000"
+    },
+    {
+		"id": "9",
+		"name": "Sweater 3",
+		"price": "20.000"
+    },
+    {
+		"id": "10",
+		"name": "Sweater 4",
+		"price": "25.000"
+    },
+    {
+		"id": "11",
+		"name": "Sweater 5",
+		"price": "30.000"
+    },
+    {
+		"id": "12",
+		"name": "Sweater 6",
+		"price": "35.000"
+    }
+  ],
+  "Celana": [
+    {
+		"id": "13",
+		"name": "Celana 1",
+		"price": "10.000"
+    },
+    {
+		"id": "14",
+		"name": "Celana 2",
+		"price": "15.000"
+    },
+    {
+		"id": "15",
+		"name": "Celana 3",
+		"price": "20.000"
+    },
+    {
+		"id": "16",
+		"name": "Celana 4",
+		"price": "25.000"
+    },
+    {
+		"id": "17",
+		"name": "Celana 5",
+		"price": "30.000"
+    },
+    {
+		"id": "18",
+		"name": "Celana 6",
+		"price": "35.000"
+    }
+  ]
+}
