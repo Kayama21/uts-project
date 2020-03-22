@@ -6,7 +6,7 @@
           <div class="header-logo mr-5 ml-5"><img src="./assets/logo.png" width="40px" height="30px"></div>
             <div>
               <router-link to="/">Home</router-link> |
-              <router-link to="/about">About</router-link>
+              <router-link to="/category">Category</router-link>
             </div>
         </div>
       </div>
